@@ -1,0 +1,8 @@
+.vscode/ 
+*.exe
+HW1/
+*/wooddj-mcclorns-vanblakp/*
+*/lab4/*
+/lab10/main.obj
+/.vs
+lab11/

@@ -1,0 +1,11 @@
+I made this file to put overall comments in one place
+
+In input.cpp, the askYesOrNo function appears to be returning a 1 value without running the loop
+Possibly because the while loop function is trying to run while the first letter is 'y' or 'n'
+
+In main:
+-I have added the "#include ###.cpp" files to be able to test on my machine 
+    without runnning through the command window, we can delete them before the 
+    final submission (Daniel)
+-validate that the wager increase cannot be more than the original bet
+-validate that the original wager cannot be more than the player balance

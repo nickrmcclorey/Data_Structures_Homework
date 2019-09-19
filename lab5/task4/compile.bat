@@ -1,0 +1,1 @@
+g++ -std=c++14 main.cpp BoardGame.cpp  game.cpp VideoGame.cpp

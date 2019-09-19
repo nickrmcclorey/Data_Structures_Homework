@@ -1,0 +1,24 @@
+ID: 914
+Units: 842
+Price: 12.95
+Description: Blue widget used for powering devices.
+TaxExempt: False
+~
+ID: 915
+Units: 416
+Price: 14.95
+Description: Flamethrower
+TaxExempt: True
+~
+ID: 916
+Units: 127
+Price: 18.95
+Description: Dell Laptop
+TaxExempt: False
+~
+ID: 917
+Units: 842
+Price: 12.95
+Description: Coloring book for kids.
+TaxExempt: False
+~

@@ -1,0 +1,1 @@
+g++ main.cpp Product.cpp -o task3.exe
